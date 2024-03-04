@@ -1,8 +1,8 @@
-export default function AboutMe() {
+export default function AboutUs() {
   return (
     <section id="AboutUs" className="about--section">
       <div className="about--section--img">
-        <img src="./img/about-us.jpg" alt="About Me" />
+        <img src="https://images.pexels.com/photos/16083724/pexels-photo-16083724.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" />
       </div>
       <div className="hero--section--content--box about--section--box">
         <div className="hero--section--content">
