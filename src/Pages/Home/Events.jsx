@@ -2,7 +2,7 @@ import data from "../../data/index.json";
 
 export default function Events() {
   return (
-    <section className="event--section" id="mySkills">
+    <section className="event--section">
       
         <h2 className="event--section--heading">Our Events</h2>
       
