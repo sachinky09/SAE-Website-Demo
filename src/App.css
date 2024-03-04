@@ -291,7 +291,7 @@ h2{
 }
 .contact--section {
   display: flex;
-  padding: 150px 85px;
+  padding: 150px 8px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
