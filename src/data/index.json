@@ -1,0 +1,24 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "title": "TEDX",
+      "description": "SAE also conducts TEDxNITDurgapur a part of TED along with Literary Circle, which aims to provide a platform for a symphony of voices from a plethora of spheres to propagate ingenious ideas and thoughts."
+    },
+    {
+      "id": "2",
+      "title": "SAE IN AAROHAN",
+      "description": "SAE is also a part of Team Aavishkar which conducts Aarohan, NIT Durgapur's annual Techno-management fest,(second largest in eastern INDIA) which includes all facets of technical and festive enthusiasm."
+    },
+    {
+      "id": "3",
+      "title": "BAJA SAEINDIA",
+      "description": "Team NDORS is the official SAE BAJA team of NIT Durgapur representing the institute in BAJA SAEINDIA. The team involves auto-enthusiasts across different streams who share a common passion towards automobile engineering and racing."
+    },
+    {
+      "id": "4",
+      "title": "Events for freshers",
+      "description": "We aslo conduct worshops for new comers to devlop their interests in robotics,automation etc. "
+    }
+  ]
+}
