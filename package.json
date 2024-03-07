@@ -2,6 +2,7 @@
   "name": "sae-3",
   "version": "0.1.0",
   "private": true,
+  "author": "sachinky09",
   "engines": {
     "node": ">=12.x"
   },
